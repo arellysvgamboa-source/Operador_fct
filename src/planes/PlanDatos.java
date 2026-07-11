@@ -9,9 +9,9 @@ public abstract class PlanDatos {
         this.nombre = nombre;
     }
 
-    public void setTasa(float tasa){
+    public void setTasa(float tasa) {
         this.tasa = tasa;
-    };
+    }
 
     public float calculaPago(int megas) {
         return tasa * megas;
