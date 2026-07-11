@@ -5,7 +5,7 @@ import planes.*;
 import proveedores.*;
 import java.util.*;
 
-public class Main {
+public class MAin {
 
     public static void main(String[] args) {
 
